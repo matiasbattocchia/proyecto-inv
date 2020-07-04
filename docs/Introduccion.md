@@ -9,8 +9,10 @@
 <h3>prueba</h3>
 
 
-    - Tarea 1.
-	* Subtarea 1.
-    - Tarea 2.
+- Tarea 1.
+	
+* Subtarea 1.
+	
+- Tarea 2.
 
-    - Tarea 3.
+- Tarea 3.
