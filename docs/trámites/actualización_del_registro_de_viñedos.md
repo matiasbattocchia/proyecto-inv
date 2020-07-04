@@ -4,5 +4,5 @@ Con el fin del mantener la información actualizada del registro de viñedos se 
 
 ## Documentación obligatoria
 
-* Declaración jurada nueva
-* Declaración jurada anterior
+* [Declaración jurada](/documentación/declaración_jurada_viñedos) nueva
+* [Declaración jurada](/documentación/declaración_jurada_viñedos) anterior
