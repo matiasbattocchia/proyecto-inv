@@ -6,7 +6,7 @@
 
 
 
-<h3>prueba</h3>
+<h3>Aqui expondremos un listado tentativo de tareas</h3>
 
 
 - Tarea 1.
