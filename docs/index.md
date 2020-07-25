@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+<h1>Bienvenidos a la documentación del Proyecto INV</h1>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<h2>Descripción del Proyecto</h2>
 
-## Commands
+<p>Aquí llevaremos un registro de la documentación existente en el organismo.</p>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<h3>Aqui expondremos un listado tentativo de tareas</h3>
+
+
+- Tarea 1.
+	
+* Subtarea 1.
+	
+- Tarea 2.
+
+- Tarea 3.
