@@ -1,9 +1,8 @@
 # Inscripción como técnico
 
-Para poder ejercer su profesión como enólogo responsable de un establecimiento se requiere que presente la siguiente documentación.
+Inscripción para poder ejercer su profesión como enólogo responsable de un establecimiento.
 
-Documentación obligatoria
+## Documentación obligatoria
 
-Formulario de inscripción de técnico del INV - nº 1735
-
-Copia certificada del título o copia del analítico
+* [Formulario 1735 inscripción de técnico](/documentos/formulario_1735_inscripción_de_técnico)
+* Copia certificada del título o copia del analítico

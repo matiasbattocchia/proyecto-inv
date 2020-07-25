@@ -1,13 +1,8 @@
 # Inscripción de frigoríficos
 
-Con el fin de inscribir su frigorífico deberá presentar la siguiente documentación.
+## Documentación obligatoria
 
-Documentación obligatoria
-
-Escritura/contrato de alquiler (boleto de compra/venta)
-
-Habilitación municipal
-
-Formulario de registro de informáticos
-
-Declaración jurada
+* [Formulario XXXX declaración jurada de ??]()
+* Contrato de compra-venta y/o escritura o contrato de locación
+* Habilitación municipal
+* [Formulario XXXX registro de informáticos]()

@@ -2,16 +2,13 @@
 
 El trámite debe realizarse antes del comienzo de inicio de las actividades y la inscripción es definitiva. Solo puede caducar en caso de solicitud del interesado por haber cesado su actividad en la industria vitivinícola o de oficio por comprobación por parte del organismo de que ha transcurrido un año sin tener movimientos.
 
-Documentación obligatoria
+## Documentación obligatoria
 
-Formulario para inscripción de vinos caseros.
+* [Formulario XXXX inscripción de vinos caseros]()
+* Documento nacional de identificación
+* Croquis
+* Rótulo o marbete identificatorio que utilizará para la comercialización del vino que obtenga
 
-Documento nacional de identificación.
+## Documentación opcional
 
-Croquis.
-
-Adjuntar rótulo o marbete identificatorio que utilizará para la comercialización del vino que obtenga.
-
-Documentación opcional
-
-Habilitación municipal.
+* Habilitación municipal

@@ -1,13 +1,13 @@
 # Pago y/o presentación de tasa de 2% de metanol
 
-Documentación obligatoria para inscriptos
+## Documentación obligatoria
 
-Declaración jurada
+### Inscriptos
 
-Comprobante de pago
+* Declaración jurada
+* Comprobante de pago
 
-Documentación obligatoria para no inscriptos
+### No inscriptos
 
-Nota de solicitud
-
-Factura de venta
+* Nota de solicitud
+* Factura de venta

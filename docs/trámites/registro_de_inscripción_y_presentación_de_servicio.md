@@ -1,11 +1,9 @@
 # Registro de inscripción y presentación de servicio de fraccionamiento móvil
 
-La inscripción es definitiva. Solo puede caducar en caso de solicitud del interesado por haber cesado su actividad en la industria vitivinícola
+La inscripción es definitiva. Solo puede caducar en caso de solicitud del interesado por haber cesado su actividad en la industria vitivinícola.
 
-Documentación obligatoria
+## Documentación obligatoria
 
-Nota de solicitud de inscripción
-
-Constancia de aprobación de máquinas para uso vitivinícola.
-
-Técnico responsable.
+* Nota de solicitud de inscripción
+* Constancia de aprobación de máquinas para uso vitivinícola
+* [Inscripción del técnico responsable](/trámites/inscripción_como_técnico)
