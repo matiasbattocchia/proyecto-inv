@@ -4,10 +4,10 @@ Se dará curso a la tramitación de eliminación, luego de verificación por par
 
 Para el caso de encontrarse causas en trámite al momento de solicitarse la eliminación, quien la solicite deberá garantizar a satisfacción del INV el efectivo cumplimiento de una eventual resolución condenatoria.
 
-Documentación obligatoria
+## Documentación obligatoria
 
-Deberá presentar nota de solicitud
+* [Nota de solicitud](/documentación/nota_de_solicitud_de_eliminacion)
 
-Documentación opcional
+## Documentación opcional
 
-Documentación de inscripción
+* [Documentación de inscripción](/documentación/documentacion_de_inscripcion)

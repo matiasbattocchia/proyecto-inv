@@ -6,8 +6,8 @@ En la definición precedente, entiéndase por: producto originario: es el produc
 
 En aquellos casos en los que la elaboración y/o envasado del producto se realice en un área geográfica distinta a aquella en que se produzcan las uvas, el origen del producto se determinará utilizando en forma conjunta el nombre correspondiente al área de producción de las uvas y el nombre del área geográfica que contenga la producción de las uvas y la elaboración y/o envasado del producto. En el caso de exportaciones a granel, los productos conservarán la categoría de su designación.
 
-Documentación obligatoria
+## Documentación obligatoria
 
-Formulario derecho al uso de una IG
+* [Formulario de derecho al uso](/documentación/formulario_de_derecho) de una IG
 
-Comprobante de pago.
+* [Comprobante de pago](/documentación/comprobante_de_pago) 

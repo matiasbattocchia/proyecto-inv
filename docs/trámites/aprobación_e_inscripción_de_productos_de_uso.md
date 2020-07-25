@@ -2,18 +2,18 @@
 
 Para poder inscribir productos para su uso enológico debe adjuntar la siguiente documentación:
 
-Documentación obligatoria
+## Documentación obligatoria
 
-Anexo ii: solicitud de aprobación e inscripción
+* [Anexo ii](/documentación/anexo_ii_solicitud_de_aprobacion) solicitud de aprobación e inscripción
 
-Certificado de análisis de composición cual y cuantitativo
+* [Certificado de análisis de composición](/documentación/certificado_de_analisis_de_composicion) cualitativo y cuantitativo
 
-Certificado de análisis fisicoquímico del producto
+* [Certificado de análisis fisicoquímico](/documentación/certificado_de_analisis_fisicoquimico) del producto 
 
-Documentación opcional
+## Documentación opcional
 
-Ficha de seguridad
+* [Ficha](/documentación/ficha_de_seguridad) de seguridad
 
-Monografía del producto
+* [Monografía](/documentación/monografia_del_producto) del producto
 
-Otra documentación
+* [Otra documentación](/documentación/otra_documentacion)

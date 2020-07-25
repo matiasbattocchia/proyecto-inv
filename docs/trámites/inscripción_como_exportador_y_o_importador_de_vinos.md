@@ -1,21 +1,14 @@
 # Inscripción como exportador y/o importador de vinos y mostos
 
-Para poder exportar productos vitivinícolas (definidos en la ley 14.878 y sus normas
+Para poder exportar productos vitivinícolas (definidos en la ley 14.878 y sus normas Complementarias) toda persona física o jurídica debe inscribirse en el registro de Exportadores del INV.
+En adelante deberá consignarse ese nº de inscripción en todo trámite o documentación relacionada con una exportación perteneciente a esa razón social.
 
-Complementarias) toda persona física o jurídica debe inscribirse en el registro de
+## Documentación obligatoria
 
-Exportadores del INV.
+* [Solicitud de inscripción como exportador](/documentación/solicitud_de_inscripcion_como_exportador_de_productos_vit) de productos vitivinícolas.
 
-En adelante deberá consignarse ese nº de inscripción en todo trámite o documentación
+* [Acta de constitución de la sociedad](/documentación/acta_de_constitucion_de_la_sociedad) o escritura de la sociedad (sólo persona juridica).
 
-Relacionada con una exportación perteneciente a esa razón social
+## Documentación opcional
 
-Documentación obligatoria
-
-Solicitud de inscripción como exportador de productos vitivinícolas
-
-Acta de constitución de la sociedad o escritura de la sociedad (solo persona juridica)
-
-Documentación opcional
-
-Poderes o autorizaciones debidamente autenticados, con las facultades otorgadas al apoderado
+* [Poderes](/documentación/poder) o autorizaciones debidamente autenticados, con las facultades otorgadas al apoderado.

@@ -1,23 +1,16 @@
 # Inscripción como fabricante de productos de uso enológico
 
-Para poder exportar productos vitivinícolas (definidos en la ley 14.878 y sus normas
+Para poder exportar productos vitivinícolas (definidos en la ley 14.878 y sus normas Complementarias) toda persona física o jurídica debe inscribirse en el registro de exportadores del INV.
+En adelante deberá consignarse ese nº de inscripción en todo trámite o documentación relacionada con una exportación perteneciente a esa razón social.
 
-Complementarias) toda persona física o jurídica debe inscribirse en el registro de
+## Documentación obligatoria
 
-Exportadores del INV.
+* [Formulario c33/11 ](/documentación/formulario_c3311) anexo i: solicitud de inscripción.
 
-En adelante deberá consignarse ese nº de inscripción en todo trámite o documentación
+* [Constancia de CUIT](/documentación/constancia_de_cuit).
 
-Relacionada con una exportación perteneciente a esa razón social
+* [Acta de constitución de la sociedad](/documentación/acta_de_constitucion) o escritura de la sociedad (solo persona jurídica).
 
-Documentación obligatoria
+## Documentación opcional
 
-Formulario c33/11 anexo i: solicitud de inscripción
-
-Constancia de CUIT
-
-Acta de constitución de la sociedad o escritura de la sociedad (solo persona jurídica)
-
-Documentación opcional
-
-Habilitación municipal
+* [Habilitación municipal](/documentación/habilitacion_municipal).
